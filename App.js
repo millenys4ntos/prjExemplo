@@ -7,7 +7,7 @@ export default function App() {
   const [num, setNum] = useState(0);
   return (
     <View style={styles.container}>
-      <Componente nome="Milleny" idade="16"/>
+      <Componente nome="Milleny n" idade="16"/>
 
       <View style={styles.row}>
           <Text style={styles.texto}>Número</Text>
